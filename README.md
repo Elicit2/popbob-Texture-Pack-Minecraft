@@ -12,3 +12,13 @@ Place The Folder Named "§1Elicits §4Anarchy §1Pack" Into Minecrafts ResorcePa
 Method #2
 Press Windows Key And R At The Same Time Then Type %AppData% Into The Window That Popped Up Then Click ".minecraft" Then Scroll Down To "resourcepacks" Then Drag My Folder Named "§1Elicits §4Anarchy §1Pack" Into "resorcepacks"
 
+My Socials
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Disocrd Server
+https://discord.gg/f8nJZGNWhG
+
+Twitter
+@Real_Elicit
+
+YouTube
+https://www.youtube.com/channel/UCVsYU2XhVpxnu5eymqIMOFg
